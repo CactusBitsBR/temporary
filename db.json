@@ -28,35 +28,6 @@
       "UPDATE_ID": 403,
       "LIMITE_ACRESCIMO": 41,
       "DESLIGAMENTO": "null"
-    },
-    {
-      "IDFUNCIONARIO": 54316,
-      "NOMEFUNCIONARIO": "Agatha Santos",
-      "CODIGOFUNCIONARIO": "74699698",
-      "NUMERO": "385",
-      "TELEFONE": "(081) 7428 3766",
-      "CPF": "586.290.473-56",
-      "E_MAIL": "agathasa@example.net",
-      "SENHA": ")C8UB^ssKN",
-      "FUNCAO": "VENDEDOR",
-      "LOGIN": "yalves",
-      "DESCONTO": 38,
-      "COMISSAO": 0.0,
-      "FOTO": "null",
-      "CELULAR": "+55 41 0335-9205",
-      "ATUALIZA": "2024-08-04",
-      "TIPO_VEND": 0,
-      "SITUACAO": 0,
-      "DATACADASTRO": "2023-11-05",
-      "ADMISSAO": "2024-08-31",
-      "NASCIMENTO": "1996-12-14",
-      "IDPERFIL": 6,
-      "PERCCOMISSAOOS": 0.0,
-      "SENHAAPP": ")%10DYNc$1",
-      "COMISSAQDREC": 1,
-      "UPDATE_ID": 258,
-      "LIMITE_ACRESCIMO": 2,
-      "DESLIGAMENTO": "null"
     }
   ]
 }
